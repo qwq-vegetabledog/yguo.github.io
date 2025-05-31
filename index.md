@@ -8,7 +8,8 @@ title: Welcome to my blog
 ## 我的项目
 
 ### 项目 1: 我的第一个项目
-这是关于第一个项目的描述。你可以添加更多关于项目的信息。
+**The Cauchy-Schwarz Inequality**\
+$$\left( \sum_{k=1}^n a_k b_k \right)^2 \leq \left( \sum_{k=1}^n a_k^2 \right) \left( \sum_{k=1}^n b_k^2 \right)$$
 
 ### 项目 2: 第二个项目
 这是关于第二个项目的描述。
